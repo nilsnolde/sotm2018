@@ -1,0 +1,15 @@
+div.myheader {
+    position: absolute;
+    margin: 30px;
+    left: 8%;
+    text-align: left
+}
+
+div.myheader.img
+
+div.myfooter {
+    position: absolute;
+    background: red;
+    font-size: 120%;
+    right: 10%;
+}
