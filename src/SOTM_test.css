@@ -1,15 +1,35 @@
-div.myheader {
+.lowerright {
     position: absolute;
-    margin: 30px;
-    left: 8%;
-    text-align: left
+  height: 100px;
+  width: 119px;
+    margin: 5px 30px;
+    right: 33%;
+    bottom: 0.5%;
 }
 
-div.myheader.img
-
-div.myfooter {
+.topright {
     position: absolute;
-    background: red;
-    font-size: 120%;
-    right: 10%;
+  height: 100px;
+  width: 190px;
+    margin: 5px 30px;
+    right: 8%;
+    bottom: 0.5%;
+}
+
+.lowerleft {
+    position: absolute;
+  height: 100px;
+  width: 402px;
+    margin: 5px 30px;
+    left: 33%;
+    bottom: 2%;
+}
+
+.topleft {
+    position: absolute;
+  height: 100px;
+  width: 371px;
+    margin: 5px 30px;
+    left: 8%;
+    bottom: 2%;
 }
